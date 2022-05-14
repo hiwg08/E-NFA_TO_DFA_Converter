@@ -1,0 +1,16 @@
+4
+3
+A B C D
+a b epsilon
+A
+NON
+B,D
+C
+NON
+NON
+NON
+C
+D
+D
+NON
+NON

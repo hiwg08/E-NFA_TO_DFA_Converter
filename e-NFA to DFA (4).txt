@@ -1,0 +1,14 @@
+5
+2
+A B C D E
+0 1
+A,B
+A,C
+A,B
+A,C
+E
+NON
+NON
+E
+E
+E

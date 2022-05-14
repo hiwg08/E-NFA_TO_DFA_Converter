@@ -1,0 +1,20 @@
+4
+4
+1 2 3 4
+a b c epsilon
+2
+NON
+NON
+3
+NON
+4
+NON
+NON
+NON
+NON
+3
+4
+NON
+NON
+NON
+4
